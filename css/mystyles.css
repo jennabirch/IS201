@@ -1,0 +1,76 @@
+.text1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.text2{
+    text-decoration: underline;
+    font-family: cursive;
+}
+.text3{ 
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+.text4{
+    color:lightgoldenrodyellow;
+}
+.text5{
+    text-align: center;
+    font-weight: lighter;
+}
+.text6{
+    font-style: italic;
+    
+}
+.text7{ 
+    text-decoration: underline;
+    font-size: 7mm;
+}
+.text8{font-weight: bold;
+    color: grey;
+    font-size: 45px;
+    text-align: center;
+}
+.text9{font-style: italic;
+    font-size: 25px;
+    text-align: center;
+}
+.text10{ 
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.layout{ bottom: 10px;}
+.pic
+{   float: right;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    margin: 5px;
+    }
+.footer{
+        bottom: 20px;
+        left:5px;
+        right: 5px;
+        height: 20px;
+        Font-size: 14px;
+        padding-bottom: 5px
+        }
+.contact{
+    text-align: center;
+    font-size: 15px;
+}
+.backtotop{
+    bottom: 5px;
+    margin: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.background{
+    background-color: lightgrey;
+}
+.text22{
+    text-decoration: underline;
+    font-family: cursive;
+    text-align: center;
+}
